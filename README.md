@@ -1,5 +1,5 @@
 # covid19-data
-This dataset contains Human Phenotype Ontology (https://hpo.jax.org/app/) annotations on abstracts published on COVID-19 since Oct 2019. Abtracts were annotated with our HPO concept recognizer. A blog post on the CR can be found here: https://track.health/2020/03/09/hpo-concept-recognition/; while the API is available here: https://track.health/api/)
+This dataset contains Human Phenotype Ontology (https://hpo.jax.org/app/) annotations on abstracts published on COVID-19 since Oct 2019. Abstracts were annotated with our HPO concept recognizer. A blog post on the CR can be found here: https://track.health/2020/03/09/hpo-concept-recognition/; while the API is available here: https://track.health/api/)
 
 **Entries:**
  * Term CURIE
