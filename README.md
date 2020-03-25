@@ -12,33 +12,33 @@ This dataset contains Human Phenotype Ontology (https://hpo.jax.org/app/) annota
 
 **High level stats:**
  * Last updated: 22 March 2020
- * Current count of COVID-19 abstracts parsed: 26,233
- * Current count of COVID-19 abstracts with annotations: 13,890
- * Number of unique HPO terms: 2,499
+ * Current count of COVID-19 abstracts parsed: 29,855
+ * Current count of COVID-19 abstracts with annotations: 15,706
+ * Number of unique HPO terms: 2,623
  
 **Top-level term distribution:**
- * Abnormality of the nervous system | 443
- * Abnormality of the cardiovascular system | 312
- * Abnormality of the skeletal system | 232
- * Abnormality of the immune system | 226
- * Neoplasm | 217
- * Abnormality of the genitourinary system | 214
- * Abnormality of the digestive system | 205
- * Abnormality of the eye | 204
- * Abnormality of metabolism/homeostasis | 189
- * Abnormality of head or neck | 188
- * Abnormality of the integument | 156
- * Abnormality of blood and blood-forming tissues | 144
- * Abnormality of the respiratory system | 130
- * Abnormality of the endocrine system | 101
- * Abnormality of limbs | 83
- * Abnormality of the musculature | 76
- * Constitutional symptom | 62
- * Abnormality of connective tissue | 46
- * Abnormality of the ear | 41
+ * Abnormality of the nervous system | 463
+ * Abnormality of the cardiovascular system | 320
+ * Abnormality of the skeletal system | 246
+ * Abnormality of the immune system | 234
+ * Abnormality of the genitourinary system | 226
+ * Neoplasm | 223
+ * Abnormality of the eye | 218
+ * Abnormality of the digestive system | 211
+ * Abnormality of head or neck | 197
+ * Abnormality of metabolism/homeostasis | 195
+ * Abnormality of the integument | 164
+ * Abnormality of blood and blood-forming tissues | 159
+ * Abnormality of the respiratory system | 131
+ * Abnormality of the endocrine system | 107
+ * Abnormality of limbs | 94
+ * Abnormality of the musculature | 86
+ * Constitutional symptom | 63
+ * Abnormality of connective tissue | 49
+ * Abnormality of the ear | 46
  * Growth abnormality | 40
- * Abnormality of prenatal development or birth | 36
- * Abnormal cellular phenotype | 22
+ * Abnormality of prenatal development or birth | 38
+ * Abnormal cellular phenotype | 23
  * Abnormality of the voice | 11
  * Abnormality of the breast | 7
  * Abnormality of the thoracic cavity | 2
